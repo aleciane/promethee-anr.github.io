@@ -98,7 +98,7 @@ nav.scroll .navlogo{
   padding: 120px 0;
   text-align: center;
   color: white;
-  background:url(../img/background/ats.jpg) center center no-repeat Fixed;
+  background:url(../img/background/stars.jpg) center center no-repeat Fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -133,7 +133,7 @@ nav.scroll .navlogo{
 }
 
 .context-section{
-   background:url(../img/background/context_bkg_dark.jpg) no-repeat center bottom Fixed;
+   background:url(../img/background/stars.jpg) no-repeat center bottom Fixed;
    -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -143,7 +143,7 @@ nav.scroll .navlogo{
 
 .team-section
 {
-  background: url(../img/background/fringes.png) no-repeat center center scroll;
+  background: url(../img/background/stars.jpg) no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -156,7 +156,7 @@ nav.scroll .navlogo{
 
 
 .project-section {
-   background:url(../img/background/witchNebula.jpg) no-repeat center bottom Fixed;
+   background:url(../img/background/stars.jpg) no-repeat center bottom Fixed;
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
   background-size: 100%;
@@ -174,7 +174,7 @@ nav.scroll .navlogo{
 
 .modeling-section
 {
-  background: url(../img/background/fringes.png) no-repeat center top fixed;
+  background: url(../img/background/stars.jpg) no-repeat center top fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -183,7 +183,7 @@ nav.scroll .navlogo{
 
 .timeline-section
 {
-   background: url(../img/background/matisse.png) no-repeat center top scroll;
+   background: url(../img/background/stars.jpg) no-repeat center top scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -203,7 +203,7 @@ nav.scroll .navlogo{
 
 .jobs-section
 {
-   background: url(../img/background/sunsetParanal.jpg) no-repeat center top fixed;
+   background: url(../img/background/stars.jpg) no-repeat center top fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -225,25 +225,25 @@ nav.scroll .navlogo{
 }
 .contact-section
 {
-   background: url(../img/background/earth.jpg) no-repeat center top fixed;
+   background: url(../img/background/stars.jpg) no-repeat center top fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
 }
-.contact-toulouse{
+.contact-grenoble{
    height:500px;
    width:500px;
-   background: url(../img/villes/toulouse.jpg) no-repeat center top scroll;
+   background: url(../img/villes/grenoble.jpg) no-repeat center top scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
 }
-.contact-nice{
+.contact-lyon{
    height:500px;
    width:500px;
-   background: url(../img/villes/nice.jpg) no-repeat center top scroll;
+   background: url(../img/villes/lyon.jpg) no-repeat center top scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
